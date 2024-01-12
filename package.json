@@ -1,4 +1,5 @@
 {
+  "homepage": "https://vvishnu17.github.io/food-order",
   "name": "food-order",
   "private": true,
   "version": "0.0.0",
@@ -10,6 +11,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "gh-pages": "^6.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
